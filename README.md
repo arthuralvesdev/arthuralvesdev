@@ -1,8 +1,9 @@
 
 <div align="center">
   <a href="https://github.com/arthuralvesdev">
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralvesdev&layout=donut&theme=radical)](https://github.com/arthuralvesdev/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralvesdev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuralvesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
 </div>
 <div style="display: inline_block"><br>
