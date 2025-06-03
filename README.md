@@ -1,5 +1,5 @@
 
-<div align="center">
+<?-- <div align="center">
   <a href="https://github.com/arthuralvesdev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralvesdev&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuralvesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,3 +25,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthuralvesdev&label=Profile%20views&color=0e75b6&style=flat" alt="arthuralvesdev" /> </p>
   
 </div>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center  width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthuralvesdev&theme=dark" alt="" /></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthuralvesdev&theme=dark" alt="" /></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img align=center width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthuralvesdev&theme=dark" alt="" /></a>
+
+
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renannrocha/arthuralvesdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renannrocha/arthuralvesdev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthuralvesdev/arthuralvesdev/output/github-contribution-grid-snake.svg">
+</picture>
+
