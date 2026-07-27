@@ -17,6 +17,11 @@
 
 <br>
 
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthuralvesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralvesdev&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+</div>
+
 ## 🚀 About me
 
 ```csharp
@@ -114,13 +119,6 @@ It's basically my personal playground for infra, networking, and "let's see if I
 </div>
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthuralvesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralvesdev&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuralvesdev&theme=dracula&hide_border=true" />
