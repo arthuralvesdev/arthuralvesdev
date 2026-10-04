@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Arthur+Alves+%F0%9F%91%8B;.NET+Backend+Developer;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+REST+APIs;Building+Reliable+Backend+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Arthur+Alves+%F0%9F%91%8B;.NET+Backend+Developer;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+REST+APIs;Quality-Driven+Software+Engineering+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-**Backend Development · APIs · Databases · Automation · Quality Engineering**
+**.NET Backend · REST APIs · Databases · Software Quality · Automation**
 
 <br>
 
@@ -23,19 +23,21 @@
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-I'm a **Backend Developer** focused on the **C# and .NET ecosystem**, building maintainable APIs, backend services and data-driven applications.
+I'm a **.NET Backend Developer** focused on building reliable APIs, backend services and data-driven applications with **C# and ASP.NET Core**.
 
-My background in **Software Quality** strongly influences how I approach development — with attention to testability, edge cases, debugging and root-cause analysis.
+My background in **Software Quality Engineering** strongly influences the way I develop software. I care about more than making code work — I think about **testability, maintainability, edge cases, observability and how systems behave when things go wrong**.
 
-* ⚙️ Building backend applications with **C#, .NET and ASP.NET Core**
-* 🔗 Designing and integrating **REST APIs**
-* 🗄️ Working with **EF Core, Dapper, SQL Server and PostgreSQL**
-* 🏗️ Learning and applying **Clean Architecture, SOLID and maintainable design**
-* 🧪 Bringing a **quality-first mindset** into development
-* 🐳 Exploring **Docker, Linux, CI/CD and self-hosted infrastructure**
-* ⚡ Automating repetitive workflows with APIs and scripting
+Currently, I'm deepening my knowledge of the **.NET ecosystem, software architecture and backend engineering**, while expanding my experience with infrastructure and self-hosted environments.
+
+- ⚙️ Building backend applications with **C# / .NET / ASP.NET Core**
+- 🔗 Designing and integrating **REST APIs**
+- 🗄️ Working with **Entity Framework Core, Dapper, SQL Server and PostgreSQL**
+- 🏗️ Applying **SOLID, Clean Architecture and Separation of Concerns**
+- 🧪 Bringing a **quality-first mindset** to software development
+- 🐳 Exploring **Docker, Linux, CI/CD and self-hosted infrastructure**
+- 🔧 Automating repetitive workflows through **APIs and scripting**
 
 ---
 
@@ -43,28 +45,49 @@ My background in **Software Quality** strongly influences how I approach develop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,linux,azure,git,github,postman&theme=dark" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Dapper-111827?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br><br>
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,azure,git,github&theme=dark" />
+
+<br><br>
+
+### Testing & Quality
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/NUnit-0D1B2A?style=flat-square&logo=nunit&logoColor=white" />
+<img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Backend Focus
+## 🚀 What I Build
 
 ```text
-Backend Development
+Backend
 ├── C# / .NET
 ├── ASP.NET Core
-├── REST API Design
+├── REST APIs
 ├── Entity Framework Core
 ├── Dapper
 ├── SQL Server / PostgreSQL
@@ -73,33 +96,54 @@ Backend Development
 ├── External API Integrations
 └── Error Handling & Logging
 
-Engineering
+Architecture
 ├── Clean Architecture
 ├── SOLID Principles
 ├── Separation of Concerns
+├── Dependency Inversion
+└── Maintainable & Testable Code
+
+Quality
 ├── Automated Testing
-├── Root Cause Analysis
-└── Maintainable Code
+├── API Testing
+├── UI Testing
+├── Performance Testing
+├── Edge Case Analysis
+└── Root Cause Analysis
 
 Infrastructure
 ├── Docker
 ├── Linux
 ├── Azure DevOps
 ├── CI/CD
-└── Self-hosting
+└── Self-hosted Services
 ```
 
 ---
 
 ## 🧪 Quality-Driven Development
 
-My background in Software Quality gives me a different perspective when writing software.
+Before becoming a developer, I built my experience around **Software Quality**.
 
-I don't only think about the happy path — I also think about **how the system can fail, how to reproduce problems and how to make the code easier to validate and maintain**.
+That background changed the way I write software.
+
+I don't only ask:
+
+> **"Does it work?"**
+
+I also ask:
+
+> **"What happens when it doesn't?"**
+
+I care about reproducing failures, identifying root causes, designing for testability and preventing the same problem from happening again.
 
 <div align="center">
 
-`Playwright` · `NUnit` · `FlaUI` · `Appium` · `Postman` · `K6` · `Robot Framework`
+**Testability · Reliability · Observability · Maintainability**
+
+<br><br>
+
+`Playwright` · `NUnit` · `Appium` · `Robot Framework` · `Postman` · `K6`
 
 </div>
 
@@ -109,11 +153,11 @@ I don't only think about the happy path — I also think about **how the system 
 
 ---
 
-## ⚙️ Beyond the Backend
+## 🐳 Beyond the Application
 
-I enjoy understanding what happens outside the application code as well.
+I enjoy understanding what happens **outside the application code** as well.
 
-My personal lab gives me a place to experiment with infrastructure, networking and self-hosting.
+My homelab is where I experiment with Linux, containers, networking, self-hosting and infrastructure.
 
 <div align="center">
 
@@ -121,9 +165,21 @@ My personal lab gives me a place to experiment with infrastructure, networking a
 
 <br><br>
 
-`Ubuntu Server` · `Docker` · `Tailscale` · `Pi-hole` · `Networking` · `Self-hosting`
+`Linux` · `Docker` · `Tailscale` · `Networking` · `Self-hosting`
 
 </div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+`Advanced C#` · `ASP.NET Core` · `EF Core` · `Software Architecture` · `Docker` · `CI/CD`
+
+</div>
+
+I'm continuously working on improving my understanding of **backend architecture, distributed systems, testing strategies and production-ready software**.
 
 ---
 
@@ -145,9 +201,10 @@ My personal lab gives me a place to experiment with infrastructure, networking a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthuralvesdev&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthuralvesdev&theme=github_dark"
   width="100%"
-  alt="Arthur Alves GitHub Activity Graph" />
+  alt="Arthur Alves GitHub activity summary" />
 
 </div>
 
@@ -158,14 +215,18 @@ My personal lab gives me a place to experiment with infrastructure, networking a
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/arthuralvesdev/arthuralvesdev/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arthuralvesdev/arthuralvesdev/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)"
-       srcset="https://raw.githubusercontent.com/arthuralvesdev/arthuralvesdev/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/arthuralvesdev/arthuralvesdev/output/github-contribution-grid-snake.svg">
 
-<img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/arthuralvesdev/arthuralvesdev/output/github-contribution-grid-snake.svg"> </picture>
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/arthuralvesdev/arthuralvesdev/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -173,9 +234,11 @@ My personal lab gives me a place to experiment with infrastructure, networking a
 
 <div align="center">
 
-### 💬 Let's Connect
+## 💬 Let's Connect
 
-I'm always interested in talking about **.NET, backend engineering, APIs, Linux and software architecture.**
+Interested in **.NET, backend engineering, APIs, software architecture, testing, Linux and infrastructure**?
+
+Feel free to connect with me.
 
 <br>
 
